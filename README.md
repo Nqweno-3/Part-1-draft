@@ -56,14 +56,14 @@ REFERENCES......9
 
  
 
-                                                 MIDO’s COMPUTER SHOP
+                                                 MIDO Tech Gadgets And  Accessories
 
 
                                                  
 
 1. ORGANISATIONAL OVERVIEW 
 
-  Technology is an essential part of our daily lives, we depend on tech gadgets and accessories for school, work and other personal and non-personal use. Mido’s computer shop is a small retail store that specialises in computer and hardware sales. Our focus is to create a website for our store to market its products and provide important business information to our online customers. Mido’s computer shop was established in 2019 in Mthatha, growing from a small, semi-developed start up to a leading SA online retailer of computer hardware and tech accessories, driven by a zest for tech and great services. Our mission is to provide people with the best tech, prices and guidance. We envision being the go-to tech hub in Africa and all around the world, providing the best connection and services through our products. If you are part of the tech-savvy crowd in South Africa and abroad then this is the right place for you. 
+  Technology is an essential part of our daily lives, we depend on tech gadgets and accessories for school, work and other personal and non-personal use. Mido tech gadgets and accessories is a small retail store that specialises in computer and hardware sales. Our focus is to create a website for our store to market its products and provide important business information to our online customers. Mido tech gadgets and accessories was established in 2019 in Mthatha, growing from a small, semi-developed start up to a leading SA online retailer of computer hardware and tech accessories, driven by a zest for tech and great services. Our mission is to provide people with the best tech, prices and guidance. We envision being the go-to tech hub in Africa and all around the world, providing the best connection and services through our products. If you are part of the tech-savvy crowd in South Africa and abroad then this is the right place for you. 
 
 2. WEBSITE GOALS AND OBJECTIVES 
 
@@ -129,7 +129,7 @@ Phone number, email, and physical address
 
 5.DESIGN AND USER EXPERIENCE 
 
-We will create a user- friendly, visually appealing website for Mido’s computer shop that displays products while embracing the brand’s identity. The design will include modern, readable typography, clear layout, and easy navigation, and we will develop low-fidelity wireframes for the homepage, product page, about page, and contact page to plan structure and hierarchy.  
+We will create a user- friendly, visually appealing website for Mido tech gadgets and accessories that displays products while embracing the brand’s identity. The design will include modern, readable typography, clear layout, and easy navigation, and we will develop low-fidelity wireframes for the homepage, product page, about page, and contact page to plan structure and hierarchy.  
 
 6. TECHNICAL REQUIREMENTS 
 
